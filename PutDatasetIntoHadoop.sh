@@ -1,0 +1,1 @@
+hadoop fs -put ~/Desktop/CS435/Final/Data/dataset /Final/
